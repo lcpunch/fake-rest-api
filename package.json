@@ -20,5 +20,8 @@
     "faker": "^4.1.0",
     "json-server": "^0.9.6",
     "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "json-server": "^0.9.6"
   }
 }
